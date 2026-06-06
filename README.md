@@ -2,7 +2,7 @@
 
 A professional, mobile-friendly website for a student-owned cybersecurity and IT support business offering affordable, insured security services to homes, students, and SMEs.
 
-![Website Preview](https://cyberstudent.pages.dev/)
+![Website Preview](https://tarnkcuraagency.pages.dev/)
 
 ---
 
